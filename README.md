@@ -85,26 +85,46 @@ Financial-Analytics/
 <br>
 
 🔄 Project Workflow
+<br>
 
 Raw Financial Data
+<br>
         ↓
+        <br>
 Excel Financial Statements
+<br>
         ↓
+        <br>
 Python + Pandas
+<br>
         ↓
+        <br>
 Data Cleaning & Transformation
+<br>
         ↓
+        <br>
 Data Integration
+<br>
         ↓
+        <br>
 Financial KPI Engineering
+<br>
         ↓
+        <br>
 Processed CSV Files
+<br>
         ↓
+        <br>
 Power BI
+<br>
         ↓
+        <br>
 Interactive Financial Dashboard
+<br>
         ↓
+        <br>
 Business Insights
+<br>
 
 🐍 Data Processing with Python
 
