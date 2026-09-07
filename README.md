@@ -51,27 +51,38 @@ financial analysis.
 🗂️ Project Structure
 
 Financial-Analytics/
+<br>
 │
 ├── data/
+<br>
 │   ├── raw/
+<br>
 │   │   ├── TCS.xlsx
 │   │   ├── Infosys.xlsx
 │   │   ├── HCLTech.xlsx
 │   │   ├── Wipro.xlsx
 │   │   └── Tech Mahindra.xlsx
+<br>
 │   │
 │   └── processed/
+<br>
 │       ├── profit_loss.csv
 │       ├── financial_data.csv
 │       └── financial_kpis.csv
+<br>
 │
 ├── notebooks/
+<br>
 │   └── Financial_Analytics.ipynb
+<br>
 │
 ├── powerbi/
+<br>
 │   └── Financial_Performance_Analysis.pbix
+<br>
 │
 └── README.md
+<br>
 
 🔄 Project Workflow
 
